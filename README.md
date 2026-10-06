@@ -9,7 +9,7 @@ Recordings of plenary talks, as well as opening and closing remarks, can be foun
 
 ## Resources
 
-- Information pack
+- [Information pack](./info_pack_2026.pdf)
 - [Plenary presentations](./plenary/)
 - [Session materials](./sessions/)
 - [Introduction and conclusion slides](./intro-concl/)
